@@ -1,0 +1,5 @@
+Matt,DeMaio,23,CASH,100
+John,Smith,25,VISA,200
+Tim,List,29,MASTERCARD,300
+Tom,Venier,34,CASH,400
+

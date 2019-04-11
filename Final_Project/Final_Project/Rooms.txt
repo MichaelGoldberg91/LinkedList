@@ -1,0 +1,10 @@
+201,2,Triple,Y
+200,2,Quad,Y
+103,1,Double,Y
+102,1,Single,Y
+101,2,Quad,Y
+100,2,Twin,Y
+202,2,Twin,N
+203,3,Triple,N
+204,2,Duo,N
+205,1,Single,N

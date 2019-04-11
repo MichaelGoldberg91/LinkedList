@@ -1,0 +1,4 @@
+﻿  UnSortedType.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+  Final_Project.vcxproj -> C:\Users\Vincent\Desktop\School\Actual Current\Data Structures\Final Project Related\Final_Project Mikes version\Final_Project\Final_Project\x64\Debug\Final_Project.exe
+  Final_Project.vcxproj -> C:\Users\Vincent\Desktop\School\Actual Current\Data Structures\Final Project Related\Final_Project Mikes version\Final_Project\Final_Project\x64\Debug\Final_Project.pdb (Partial PDB)
